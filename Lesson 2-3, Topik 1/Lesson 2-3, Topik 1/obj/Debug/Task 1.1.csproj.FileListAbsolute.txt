@@ -1,0 +1,7 @@
+F:\Учеба\epam\EpamRepository\Lesson 2-3, Topik 1\Lesson 2-3, Topik 1\bin\Debug\Lesson 2-3, Topik 1.exe.config
+F:\Учеба\epam\EpamRepository\Lesson 2-3, Topik 1\Lesson 2-3, Topik 1\bin\Debug\Lesson 2-3, Topik 1.exe
+F:\Учеба\epam\EpamRepository\Lesson 2-3, Topik 1\Lesson 2-3, Topik 1\bin\Debug\Lesson 2-3, Topik 1.pdb
+F:\Учеба\epam\EpamRepository\Lesson 2-3, Topik 1\Lesson 2-3, Topik 1\obj\Debug\Task 1.1.csprojAssemblyReference.cache
+F:\Учеба\epam\EpamRepository\Lesson 2-3, Topik 1\Lesson 2-3, Topik 1\obj\Debug\Task 1.1.csproj.CoreCompileInputs.cache
+F:\Учеба\epam\EpamRepository\Lesson 2-3, Topik 1\Lesson 2-3, Topik 1\obj\Debug\Lesson 2-3, Topik 1.exe
+F:\Учеба\epam\EpamRepository\Lesson 2-3, Topik 1\Lesson 2-3, Topik 1\obj\Debug\Lesson 2-3, Topik 1.pdb
