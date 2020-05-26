@@ -29,7 +29,7 @@ namespace Task_1_1
 
 			//Console.WriteLine(SumOfNumbers.SumOfNumbersMethod());
 
-			Adjustment.GetFont();
+			//Adjustment.GetFont();
 
 			//ArrayProcessing.ArrayProcess(10);
 
