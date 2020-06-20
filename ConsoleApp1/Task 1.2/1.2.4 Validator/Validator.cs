@@ -7,7 +7,6 @@ namespace Task_1._2._1._2._4_Validator
 {
 	class Validator
 	{
-
 		public static void GetValidate()
 		{
             Console.WriteLine("Entry: ");
@@ -24,7 +23,5 @@ namespace Task_1._2._1._2._4_Validator
                 Console.Write(new string(arr) + " ");
             }
         }
-
-
 	}
 }
