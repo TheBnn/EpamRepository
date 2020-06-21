@@ -6,16 +6,16 @@ namespace _2._1._2.Entities
 {
 	abstract class BaseTriangle : BaseFigure
 	{
-		public double SideA { get; set; }
-		public double SideB { get; set; }
-		public double SideC { get; set; }
+		public int SideA { get; set; }
+		public int SideB { get; set; }
+		public int SideC { get; set; }
 
 		public BaseTriangle()
 		{
 
 		}
 
-		public BaseTriangle(double sideA, double sideB, double sideC)
+		public BaseTriangle(int sideA, int sideB, int sideC)
 		{
 			SideA = sideA;
 			SideB = sideB;
