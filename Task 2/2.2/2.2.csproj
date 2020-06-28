@@ -6,9 +6,4 @@
     <RootNamespace>_2._2</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Map\" />
-    <Folder Include="Entities\" />
-  </ItemGroup>
-
 </Project>
