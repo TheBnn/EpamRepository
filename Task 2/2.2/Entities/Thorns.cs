@@ -6,5 +6,10 @@ namespace _2._2.Entities.Bases
 {
 	class Thorns : BaseDebuf
 	{
+		public void SetMinusHealh(int heath)
+		{
+			Player.Healths -= heath;
+		}
+
 	}
 }

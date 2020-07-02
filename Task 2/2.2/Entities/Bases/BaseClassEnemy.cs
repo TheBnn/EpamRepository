@@ -6,11 +6,11 @@ using System.Text;
 
 namespace _2._2.Entities
 {
-	class BaseClassEnemy : Point, IMovable, ISnachable
+	abstract class BaseClassEnemy : Point, IMovable, ISnachable
 	{
 		public string Name { get; set; }
 		public int MovementSpeed { get; set; }
-
+	
 		public void Move()
 		{
 			//Двигаюсь по какому либо алгоритму

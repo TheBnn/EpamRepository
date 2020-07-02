@@ -5,8 +5,7 @@ using System.Text;
 
 namespace _2._2.Entities
 {
-	class BaseBarier : Point
+	abstract class BaseBarier : Point
 	{
-		public static void SetBarier() { }
 	}
 }

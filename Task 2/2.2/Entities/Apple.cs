@@ -6,9 +6,9 @@ namespace _2._2.Entities
 {
 	class Apple : BaseBuf
 	{
-		public int BufTime { get; set; }
-
-
+		public void SetPlusHeath(int health)
+		{
+			Player.Healths += health;
+		}
 	}
-
 }

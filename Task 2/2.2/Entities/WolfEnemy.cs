@@ -7,6 +7,10 @@ namespace _2._2.Entities
 {
 	class WolfEnemy : BaseClassEnemy
 	{
-		
+		WolfEnemy()
+		{
+			Name = "Wolfy";
+			MovementSpeed = 20;
+		}
 	}
 }
