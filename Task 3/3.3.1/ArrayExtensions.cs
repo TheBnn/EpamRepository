@@ -39,6 +39,20 @@ namespace _3._3._1
             return arr.Sum();
         }
 
+		public static T SumOfAllGeneric<T>(this T[] array)
+		{
+			if (array == null) throw new NullReferenceException();
+
+			T result = default(T);
+
+			foreach (var item in array)
+			{
+				result += (dynamic)item;
+			}
+			return result;
+		}
+	
+
         public static double Avg(this int[] arr)
         {
             if (arr == null) throw new NullReferenceException();
