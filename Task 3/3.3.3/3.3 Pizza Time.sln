@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 4.1", "Task 4.1.csproj", "{18CB0203-CE2F-4173-A715-F1A72F01FF12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3 Pizza Time", "3.3 Pizza Time.csproj", "{CD8D80BE-0C24-434F-9479-855A75DA1868}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{18CB0203-CE2F-4173-A715-F1A72F01FF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18CB0203-CE2F-4173-A715-F1A72F01FF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18CB0203-CE2F-4173-A715-F1A72F01FF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18CB0203-CE2F-4173-A715-F1A72F01FF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8D80BE-0C24-434F-9479-855A75DA1868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8D80BE-0C24-434F-9479-855A75DA1868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8D80BE-0C24-434F-9479-855A75DA1868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8D80BE-0C24-434F-9479-855A75DA1868}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CC678FBB-6AD9-49C2-81B5-E57EB940875F}
+		SolutionGuid = {5436C747-73D2-4C2E-87AC-57117259A020}
 	EndGlobalSection
 EndGlobal
